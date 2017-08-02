@@ -4,4 +4,6 @@ Funcion getUser (id:entero):string
     2= "b"
     3= "c"
     4= "d"
+    6= "f"
+    
 Fin_Funcion    
